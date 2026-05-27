@@ -1,0 +1,6 @@
+*.pth 
+dataset_raw/ 
+training/L3train/ 
+training/L3val/ 
+training/L4train/ 
+training/L4val/
